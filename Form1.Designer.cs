@@ -81,7 +81,7 @@ namespace Clinica
             // 
             // cmdBorrar
             // 
-            this.cmdBorrar.Location = new System.Drawing.Point(163, 94);
+            this.cmdBorrar.Location = new System.Drawing.Point(178, 94);
             this.cmdBorrar.Name = "cmdBorrar";
             this.cmdBorrar.Size = new System.Drawing.Size(75, 23);
             this.cmdBorrar.TabIndex = 5;
