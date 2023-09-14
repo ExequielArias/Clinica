@@ -37,7 +37,8 @@ namespace Clinica
             Especialidades oEspecialidad = new Especialidades();
             oEspecialidad.Especialidad = Convert.ToInt32(txtEspecialidad.Text);
             oEspecialidad.Borrar();
-            txtEspecialidad.Text = ""; 
+            txtEspecialidad.Text = "";
+            txtNombre.Text = ""; 
         }
     }
 }
